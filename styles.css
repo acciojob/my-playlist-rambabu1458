@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 .container{
-	background-color: rgb(204, 204, 204)
+	/* background-color:lightgray; */
 	height:100%;
 	margin:0;
 	padding:10px;	
@@ -26,8 +26,8 @@ h2{
 }
 .player_two,.player_one{
 	width:100%;
-	background-color: rgb(255, 255, 255);
 	padding:10px 0px;
 	border-radius:8px;
+	background-color: rgb(204, 204, 204)
 	
 }
