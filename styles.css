@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+.container{
+	background:lightgray;
+	height:100%;
+	margin:0;
+	padding:10px;	
+}
+h1{
+	text-align:center;
+}
+.card{
+	border:1px solid black;
+	border-radius:4px;
+	background-color:white;
+	padding:8px;
+}
+ul li{
+	list-style-type: none;
+	margin:4px 0;
+}
+ul li a{
+	text-decoration-line: none;	
+	color:black;
+}
+h2{
+	text-align:center;
+}
+audio{
+	width:100%;
+}
